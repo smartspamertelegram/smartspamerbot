@@ -210,8 +210,7 @@ function create_config( )
     "inpm",
     "banhammer",
     "stats",
-    "anti_spam",
-    "owners",
+    "anti_spam",ý    "owners",
     "arabic_lock",
     "set",
     "get",
@@ -221,7 +220,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {144658773},--Sudo users                               
+    sudo_users = {287315253},--Sudo users                               
   disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
